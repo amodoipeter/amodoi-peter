@@ -1,0 +1,116 @@
+body{
+    background-color: skyblue;
+}
+.nav-item{
+  font-size: x-large;
+  display: inline-flex;
+  padding: 25px;
+}
+nav{
+  padding-left: 200px;
+}
+  .column {
+    float: left;
+    padding-top: 100px;
+
+  }
+
+  .left {
+    width: 25%;
+  }
+
+  .right {
+    width: 75%;
+  }
+  .container {
+      padding-top: 50px;
+    position: relative;
+    max-width: 100%;
+    margin: 0 auto;
+    padding-bottom: 50px;
+  }
+
+  .container .content {
+    position: absolute;
+    top: 0;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+    padding-top: 400px;
+  }
+  .Peter{
+padding-top: 50px;
+/* background-color: cornsilk; */
+display: flex;
+text-align: center;
+padding-bottom: 50px;
+  }
+  skills{
+    /* flex: 50%; */
+  }
+  progress{
+width: 30%;
+height: 50px;
+  }
+
+  .Accomplishments{
+    display: flex;
+  }
+
+  .Projects {
+    /* flex: 33.33%; */
+    padding: 5px;
+    /* display: inline-table; */
+
+  }
+  #center{
+   text-align: center;
+  }
+  .contact{
+    display: flex;
+    padding-top: 100px;
+    /* background-color: cornsilk; */
+  }
+
+  .layout{
+    flex: 50%;
+    padding: 5px;
+  }
+
+  .footer {
+    float: left;
+    /* background-color: white; */
+    /* height: 300px; */
+    width: 100%;
+    display: flex;
+    padding-top:100px;
+  }
+
+  .part {
+    content: "";
+    display: table;
+    clear: both;
+    padding: 5px;
+    flex: 25%;
+    text-align: center;
+  }
+  .active {
+    font-size: x-large;
+    padding: 5px;
+  }
+.navbar-brand{
+  font-size:xx-large ;
+}
+.row{
+  text-align: center;
+  padding-left: 200px;
+}
+h1{
+  text-align: center;
+  font-style: italic;
+  padding-bottom: 50px;
+  padding-top: 50px;
+  color: blue;
+}
