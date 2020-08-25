@@ -12,7 +12,7 @@ portfolio website
 ## Known Bugs
 {Issues of some functionalities of the contacts section is currently being worked on}
 ## Technologies Used
-{HTML, PHP, and CSS}
+{HTML, bootstrap, and CSS}
 ## Support and contact details
 {If you would like to contribute to the creation of the web pages below: Email: amodoipeter@gmail.com or call:+254797436731}
 ### License
